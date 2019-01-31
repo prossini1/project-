@@ -1,6 +1,3 @@
-# project
-# First draft 
-
 # Implementing an exponential filter model to estimate soil moisture in the entire root-zone
 
 **Name**: Pedro Rossini <br/>
@@ -36,7 +33,5 @@ Available soil moisture data from Kansas Mesonet and field experiments will be u
 
 ## References
 Albergel, Clément, et al. "From near-surface to root-zone soil moisture using an exponential filter: an assessment of the method based on in-situ observations and model simulations." Hydrology and Earth System Sciences 12.6 (2008): 1323-1337.
-
-
 
 
